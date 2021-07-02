@@ -9,5 +9,5 @@ Propose an Accelerator-aware NAS method with Multiple Search Space
     Mixed: Various latency with -1.2% ~ -0.2% accuracy compared to ResNet-50
 
 
-![Image of Execcution Results 1](https://github.com/yuhsuan18/Accelerator-aware-NAS/Images/graph1.png)
+![Image 1](https://github.com/yuhsuan18/Accelerator-aware-NAS/Images/graph1.png)
 
