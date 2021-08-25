@@ -1,4 +1,4 @@
-# Accelerator-aware Neural Architecture Search for DCNNs
+# [Thesis] Accelerator-aware Neural Architecture Search for DCNNs
 
 
 Propose an Accelerator-aware NAS method with Multiple Search Space
